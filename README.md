@@ -9,14 +9,14 @@ This repo contains my notes on 3Blue1Brown's "Essence of Linear Algebra" Course
 
 # Schedule
 
-- Chapter 1: Vectors
+- [x] [Chapter 1: Vectors](./chapter01.md)
+  - Completion Date: 2024-05-27
+  - Unresolved Parts: None
+
+- [ ] [Chapter 2: Linear combinations, span, and basis vectors](./chapter02.md)
   - Completion Date:
   - Unresolved Parts:
 
-- Chapter 2: Linear combinations, span, and basis vectors
-  - Completion Date:
-  - Unresolved Parts:
-
-- Chapter 3: Linear transformations and matrices
+- [ ] [Chapter 3: Linear transformations and matrices](./chapter03.md)
   - Completion Date:
   - Unresolved Parts:
