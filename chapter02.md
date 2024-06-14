@@ -1,10 +1,10 @@
 # Linear combinations, span, and basis vectors
 
-Linear combinations: 线性组合
-Span: 张成
-Basis vectors: 基向量
-Linearly dependent: 线性相关
-Linearly independent: 线性无关
+- Linear combinations: 线性组合
+- Span: 张成
+- Basis vectors: 基向量
+- Linearly dependent: 线性相关
+- Linearly independent: 线性无关
 
 ## Basis vectors
 

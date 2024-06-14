@@ -1,8 +1,8 @@
 # Vectors 
 
-Vectors: 向量
-Scaling: 缩放
-Scalar: 标量
+- Vectors: 向量
+- Scaling: 缩放
+- Scalar: 标量
 
 Vector is the fundamental, root-of-it-all building block for linear algebra
 
