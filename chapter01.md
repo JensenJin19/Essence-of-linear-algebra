@@ -1,4 +1,8 @@
-# Vectors
+# Vectors 
+
+Vectors: 向量
+Scaling: 缩放
+Scalar: 标量
 
 Vector is the fundamental, root-of-it-all building block for linear algebra
 
@@ -24,12 +28,12 @@ $$2*\left[\begin{matrix}x_1\\y_1\end{matrix}\right] = \left[\begin{matrix}2x_1\\
 
 For example, $2\overrightarrow{v}$ means stretch out that vector $\overrightarrow{v}$ by a factor of 2
 
-![multiplication by a number](./images/ch02-2.png)
+![multiplication by a number](./images/ch01-2.png)
 
 ## Scaling & Scalar
 
 **Scaling (缩放)** means the process of stretching or squishing or reversing the directions of a vector
 
-**Scalar (标量)** is a quantity that is fully described by its magnitude (size or amount) only, and it does not have a direction associated with it such as 2, 1/3, -1.8
+**Scalar (标量)** is a quantity that is fully described by its magnitude (size or amount) only, and it does not have a direction associated with it such as `2`, `1/3`, `-1.8`
 
-> Vector (向量) is fully described by its magnitude and direction
+> **Vector (向量)** is fully described by its magnitude and direction (大小与方向)
